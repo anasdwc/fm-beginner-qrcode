@@ -24,8 +24,7 @@ Buat komponen jadi di tengah halaman selalu jadi tantangan, stuck beberapa menit
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://fm-beginner-qrcode.vercel.app/](https://fm-beginner-qrcode.vercel.app/)
 
 ## My process
 
